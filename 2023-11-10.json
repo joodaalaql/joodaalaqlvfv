@@ -1,0 +1,26 @@
+{
+  "name": "Ada Dennis",
+  "age": 61,
+  "address": {
+    "street": "Vapa Drive",
+    "city": "Urpejme",
+    "state": "DE",
+    "zip": "51528"
+  },
+  "contact": {
+    "phone": "(242) 695-1485",
+    "servicePhone": "800271934"
+  },
+  "birthday": "1968-07-10T19:31:14.411Z",
+  "ip": "33.54.237.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Apa fir juscur koisbo cor atpected he cofec ridruwid ezo pavfavev arpu muhizaw uzaut fibvu zin. Dodpu obohi hocem oja sor ca eh uwuse ha amkariko ab di otokupum du itfoc di. Lamgiso di ciwnef rolmijep jazwev hag zufeew bi gaufver me ij cuhjowcu me uher. Rig iwubesaf gackagog vuzutfu ufekuna ivmimuz henudce wuj vukepru bil fos lag.",
+    "bio": "Mofochi pududa sueraemi ise jefbuwlik iju kafimhag savupru woztuk ho osu wi. Pivoldi bu huflid kotod rac bedura gek odela sehuhgac recdi ofiemoha valitkab ewaod uhlumu ogefigud se. Wuduw jewraz uv wodgoiku uj liduneza ojgogji niniti ta hip zeftobup irbu ofe cakawaw rafsovadu powzer."
+  },
+  "apiKey": "5f244aef68a833fbd1c52a11171e1f8b33ea74d1ccdd178eb0bdd5cbc91d70b7",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}

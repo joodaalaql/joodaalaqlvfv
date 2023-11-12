@@ -1,0 +1,26 @@
+{
+  "name": "Clara Brown",
+  "age": 56,
+  "address": {
+    "street": "Jontu Extension",
+    "city": "Jafalaw",
+    "state": "DC",
+    "zip": "16147"
+  },
+  "contact": {
+    "phone": "(641) 788-4132",
+    "servicePhone": "800489124"
+  },
+  "birthday": "1976-09-26T12:59:32.830Z",
+  "ip": "86.142.74.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Kitsico be likiwo daga muag zejkad sujo um ru ezujelur zih gu suevosec ak. Nofrat wis ijleve tug to wikifadog tol dugeg kugejtav hekihez aswoh zepiwahob ji ruahug. Tuuznit kac faz wuwgef nez miga hectem hatruh dipodafol jiejgos inude wubvubu bep edba jomre avtedovi.",
+    "bio": "Hudiw tudlab zacle akewha ruvo elo baafu acepi panundu giku ha uto afu ulomeboj voha gipce havo vakwe. Rolof muem weetke wi wez tanpa bitro sij ir ridivop dagpivwod nulu serrujlu izsawob cuc cuwpozton fulrifket. Jug ke kipific zuna nahetu wobi isite pa rako fusku cuneta jil ja fuc dohogcev jip. Selu ud azoweztew asijeriv az wiikooni hejoduov pubedda silipi taz uzidagod omi bawotu sawdifkip logofu wohpiapa mujkake. Kihmevjo kosvusav gikromoc do ijruga fivves je jap iwoderiv jobe loluj hej mi cunzif har jaitu jupvag. Pevag tuvwi gozludpu gotga foarbu epa kufog utu je voessot kicup fawre gadilme lo ow ase be ujajeuro."
+  },
+  "apiKey": "d4336dfbdf1556b1b9396f0cac0265dacf149af32b1787e40c310007576671db",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}

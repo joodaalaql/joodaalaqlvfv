@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Clark",
+  "age": 49,
+  "address": {
+    "street": "Uzuedo Pike",
+    "city": "Camogoc",
+    "state": "CO",
+    "zip": "97545"
+  },
+  "contact": {
+    "phone": "(415) 760-2076",
+    "servicePhone": "800259616"
+  },
+  "birthday": "1961-12-12T19:09:44.639Z",
+  "ip": "148.18.60.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Pipito ma tojodihe muzuwdow kibiuwe ki iblaf dezwos tog evugowud sod vacespel. Lafat zed en oko ujosasu lildedi zelaaj ofa res jipomud mareefa mogizi envijir lukahgac. Ba dewfebef bolzugupo umi gekfuwze sihupon le avalaibu awezoc evo ceszo mehno. Mod ugu ozodil jeleb izzaz zuj azejoaso fukas naminac liicuun fokna guppudiji vilikeugi gigob wiwlag im ji.",
+    "bio": "Isun umruk norulke uhcoahe fahouc netibki fo kivegji nuv bajimo uvbad wided honep kul alzeg kedlu ba sivgo. Ilumgi ennok bazwupuh fuhu cole ji zuvzij ru bagigari wokvad was kam akneredu azusra vejcavi jogumrob. No ivo ri adce som caukuvi naerebi top hon iviaz nup bi wuugenoc."
+  },
+  "apiKey": "e842329ec45e12a07f25babc79581d079881068bea50f2e0a9b534c4934a32d0",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}

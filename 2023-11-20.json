@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Jordan",
+  "age": 20,
+  "address": {
+    "street": "Ejkig Way",
+    "city": "Woutived",
+    "state": "DE",
+    "zip": "57346"
+  },
+  "contact": {
+    "phone": "(569) 939-1520",
+    "servicePhone": "800798967"
+  },
+  "birthday": "1961-12-23T03:48:47.182Z",
+  "ip": "63.52.11.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Igoselo ka hujgutoj jac hobopfo dib wihhopew ru nujo beksoc ketijo va an gelwulawa. Mutvowmi mocizcat bogkolun feegi nefujape umniruh ru tuvmuiwo visla ramu ifetac va vanpih edo furfamra bata re cinfabel. Ereburnuw serisa ze wodisef wivwezen ja ifepu fi wac homboz buheor duw tu jo.",
+    "bio": "Vovimcoz uhi rovuofa vifto wigem dugatib edbo koba vu migtadzo cehi fecosi faikmac. Vikfol ebrual decjizduj jelinuje vitog det gujsep es uhzigan sehpizaki effu pofezpuz. Weh is ukeen weiz poh paz pigozioke jon wakic zejileza jencioz no hejgius hec bomes nel."
+  },
+  "apiKey": "117a7d92d84ffd02d7dfc73679759a7833336ef93eda69fd26791333d9c7811d",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}

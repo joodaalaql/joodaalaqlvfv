@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Byrd",
+  "age": 64,
+  "address": {
+    "street": "Dide View",
+    "city": "Aldido",
+    "state": "AK",
+    "zip": "48632"
+  },
+  "contact": {
+    "phone": "(938) 497-9094",
+    "servicePhone": "800615297"
+  },
+  "birthday": "1962-09-07T10:21:14.157Z",
+  "ip": "18.176.31.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu dufa ejvukoj cugoj sosidto pokheliza li sizwo da aj ugi val oraiwe dafpakge sodevam huevuraw. Bub raz hahidkus puzacep bo zut kuc poscoiw cev ni capvov ugu rohe. Gidu larzibewa zuguh doowi gubguzdi hu risjeha locavop wun ashigob gesro ezomiet pubbe gol berne sa. Pefati nikow lizgephaf ge bicase ojboev cuimcek efzuc hakunu zi vosbuk pi dutafu gorrote zu nemref so.",
+    "bio": "Mozir wiuc wen ebvujid devram wigguz azpozuv lal odge odice fomob mi lu ak. Vamuwi mi ekuizi dica eleacate witzetov ocupnev funsiv had refan girzaba munvud op kufop letu. Az kag kos zik gedigel pad bemug owpedo cahzicej un zecarfeg keweli cabme ebceboh fu."
+  },
+  "apiKey": "a5e258fadeda3830fe1838bbb5e064ddd44eb9b5e898499d49b96e41899945f0",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}

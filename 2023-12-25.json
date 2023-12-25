@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Horton",
+  "age": 65,
+  "address": {
+    "street": "Padbe Manor",
+    "city": "Selufju",
+    "state": "CA",
+    "zip": "67945"
+  },
+  "contact": {
+    "phone": "(738) 797-7959",
+    "servicePhone": "800718573"
+  },
+  "birthday": "2000-11-06T14:23:57.975Z",
+  "ip": "152.88.205.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Hifo pifno idezi ge ibeve ru arzu bonrok su vo niah ab duh zu bi cuten. Ziusu muvfo ho ezvuc vuzeefu akfaadu fi jokfi cevabbi toro ozo sejor fut oj jijjugiw fizreeso. Eloudew rirrehop ulifivez ijofaf osuapo hiseopi derofi mihsob rabe ehemevis iwjutdar agpimiv sa nin. Moaf hi zav esuka orudub faka hugo fezgo keregef pihcoja lanede dajcilmec mikenhe ut ho nual. Citgubuge biwje duvca izwosaj du umfen no cuban vabofhe tetok ubegul sa ukku ev. Buha vordaco na learu meloc duze tunu bud virkajuv unucucluc evuemvi mahag logorvun silnote liwizali ikazu.",
+    "bio": "Lin zijezluc atu docodiz je vafe izbihe cicefgaw ovuheb hi lelsozi doda sevjugwaf azaas. Bog vuzehmi li dotjimu fuskuh egodug rig tebab objafli mohtut woha fap aloda osutjuh. Medozceg ezuihaum hinor tad hacwawo zivusaf ke wosce wul temakohe puino pazak kekjaoj taudu ja zev mabwok. Selogge goikte va muk tilke digam azu rorid pov ece volsim igowaca kitruh je kujud. Gan tot pu jujfez ko daika ir habu tef tocuvwut didcesu visanmom ho jij. Hozred ice zutar va cif agkeul runu varak ladov rij di bowa cezfergit jis tiebfa warmu vueho. Vofavivi kaca beb hozzojra souz koresi sonekade rofojnu ne hukategec fa ri li lidvarkap."
+  },
+  "apiKey": "3e79bd7cb4b216dd610f470333b9c6617cc73afac8cc5f686e82f4100e8fcaca",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}

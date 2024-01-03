@@ -1,0 +1,26 @@
+{
+  "name": "Jane Santos",
+  "age": 29,
+  "address": {
+    "street": "Tole Mill",
+    "city": "Tenvobzuc",
+    "state": "NM",
+    "zip": "70447"
+  },
+  "contact": {
+    "phone": "(988) 950-7757",
+    "servicePhone": "800913821"
+  },
+  "birthday": "1985-10-21T23:40:46.064Z",
+  "ip": "30.136.216.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Jugeji ze domufo li ejmu difel siak vo wodew onaj huuj kob kudedoove ihhikap jidu hem cavojsuz. Tudib re kigedeh ri vozkoke egrojiv wufa zadkez akiiza vu ni dice newfoulo wiahoku. Go ocucen ejre geklemad oj ziik ruc aro nun nuem nuk suni ri.",
+    "bio": "Hokes umetew hace tuvib zihpi keggivle cuzze uhasawtij on laknu caipuabu un zewu enteeje vig rijjopof olkuke beogose. Lelud bisdefiv za wameco zimoz cuvachum aguocmu tizos al ovko zar lur hemtihube dosti da rug egaahi ideguckac. Ja garsadnej ruru degpahtu en gicpu gihwewsoc wep ubovuril cetzog deihudar siid safla odibuj tihsa. Muja pajun fokev pemmawi bupukug li wemaege zudruppif wozjofmow ligmube sakel ernir kunvo fuosoze fip nenuom ki. Vuhos fus tifes hopruluf su dezunal tefeta di ipozum jug binvasgam lo kosniah moksi fejdi bov va ascijliw. Lumi igaco vujkeun zed vep eweja uzo hu tedlehi eceon en fawepfu posogru ruvmow da mis."
+  },
+  "apiKey": "769a4214b14bafcfa84d7f6d271fd1d6d479149542f7370a0115087e4f354dd7",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

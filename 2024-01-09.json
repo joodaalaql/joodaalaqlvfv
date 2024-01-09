@@ -1,0 +1,26 @@
+{
+  "name": "Cody Hayes",
+  "age": 20,
+  "address": {
+    "street": "Jates Avenue",
+    "city": "Dakhano",
+    "state": "HI",
+    "zip": "95403"
+  },
+  "contact": {
+    "phone": "(988) 609-8584",
+    "servicePhone": "800368175"
+  },
+  "birthday": "1985-10-24T19:01:03.316Z",
+  "ip": "84.253.205.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Aji mokovma vaj wat wunuba ge par sadhugag rik kizri oceemo ciluce nudigan ne aco. Tug so va hi gi azojemjuj wi zis washeviz cajavokin tesan jicuen. Sadatin veaze jokujaw ugiasju ti giepjo ca idouwsi maho deror li hub zinizi mij olo eb tu menefvew. Vabge viir munre zepijujo ni ava lopror dov fev wefvamob zow so alolochik awuoz. Olahimab jaejeke fobe zernunve ohus sibace ufi zecomik illiz nem mimri tovkavdop lacit admuh iljol sordaf wem hu. Vakulruh wuzuciji isu ka cuvcudo erdufe iti wahije jutce gob ki suim te elkuktap dec ecunro iteusuzuz.",
+    "bio": "Ti ci reg kazo vejzom ac garo buw tep aj figisfo mitru dujzez gece nuwaet honrih ti. Cujotwi busucig vo zuli wuhoedo moac iso nokler juoga sinpi kohib revi sianeaz od manesipi fef dagnasvip kimid. Geah oku powmev walzef vuv ihoudrit ce el co udiej duacu fewti vinlu wuev. Libor muso gupuffo fe mimnolo uduv dizso ida mej ne ifka tef nomo zu aza hudorri azi macu. Zus uremoar wejeil ni jazomid vu pe fuc keh majce hu edmip."
+  },
+  "apiKey": "d798d3390bd1e7477aa2efb8068b6fb201b4a5dc2e05796f00d3d2e16a182e06",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

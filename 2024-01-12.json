@@ -1,0 +1,26 @@
+{
+  "name": "Marc Collins",
+  "age": 42,
+  "address": {
+    "street": "Tirus Key",
+    "city": "Batevri",
+    "state": "GA",
+    "zip": "48077"
+  },
+  "contact": {
+    "phone": "(328) 442-9489",
+    "servicePhone": "800329893"
+  },
+  "birthday": "2000-06-26T00:36:36.084Z",
+  "ip": "109.168.71.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Geizzev venegzug ame jopjehaj okko dumugli jac ewuro cuwakefu rameb riib vu gife gil ujrulu. Pir sehimijaj jej pimoga cizu vipvo adiimi nooku tawrezu pemnihguv kusru lerusuti ta von wahit ugibdos esro ifufet. Atucekew mah gamrigu nokolme ico lop pok kob siz namkepad faf uron bem wag la. Taci lavjig su no ozhane jicbidu nebico burhuv eckatef dunam idifig logama muse vepwovah. Hufdahfo ro gufa ice torunke du de feghomta ahwi buf be kapba for ohugi komejag.",
+    "bio": "Wiumu rira gifaman halbat sufoptun opne sedkoono laz te batnofvok romvu dosmidup noih ca novbub gisvu. Ufmizhoc vo tij mualmuf jipno satzanu folraom kajauj majvi roido ec azemid hur jeep. Heirafa jo doz sawoji dicba wa zonfef cepa vew otoelur ba lujubuk kudapimo reja befuvuj huhe samumir ahru. Nadsege umoca dedono radtowdah ciboweh voda garofsel gapem el retamlar nav tihip febsi nogu."
+  },
+  "apiKey": "82938cbe4a122a33f925cc1f2d48aaa23b6b08356b1a13d93c492228b65d0b13",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}

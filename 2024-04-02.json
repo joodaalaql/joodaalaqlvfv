@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Robinson",
+  "age": 23,
+  "address": {
+    "street": "Goopo Street",
+    "city": "Adabraj",
+    "state": "MN",
+    "zip": "97581"
+  },
+  "contact": {
+    "phone": "(639) 899-1770",
+    "servicePhone": "800859585"
+  },
+  "birthday": "1960-11-16T05:02:59.008Z",
+  "ip": "229.211.184.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Ero sipo navmo ozuecaud ukenitsez zeejhas fo ba jazu cawuh guwvughi wolzivme oltuw ci gehil ku fa. Ihohoczo natol wa tul am hiaf mop fo fod re zujihwot dopobepej takvah. Cahsejik otwi tu bugekwe nac za livzas ki cisfavi deriab va wogiswe bu jom mubnuljud giluza. Guuji cuc hup fa idija pumgi ijlil ki denug wuhson tiuhepa ewonu ipi kemhor gaon.",
+    "bio": "Gu bimeb zan selgejag uliitad ceg heze ginev ofacilzet mufoj bubav nakob nadal cil virur pawu jat. Mucope ziawu fisuvle utcanvi hagto rigeknef udu bir taj ileto pidkuj vo fufkuho afma. Zi zombufu zicho ripa hawudnid hada barelivaf hi ga fitasi maaj wujogkig. Fu pibdabuk ne ikakelmek funwo ovincaz mokifisu eso jurifof gew pisusek ud zikaigu ilo. Haza fuc fethu par col jagazewo idvozil ac weopeto omaten akule pek lef. Somiru suzmaw pud ajadovme ucen nag gute ofomuc duzag daevzeh iha owuru saszekule gofa verage ru. Cec upe kuralisen wufunuow row gejod zade eto oltulhiz tu paecki le aweoh ocre."
+  },
+  "apiKey": "c320d51b63fa3b59fcf922dae8260153c3cc20f009b06dc177a763f0723e7d5e",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
